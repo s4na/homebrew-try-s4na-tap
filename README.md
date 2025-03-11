@@ -9,12 +9,12 @@
 brew tap s4na/try-brew-tap
 
 # パッケージをインストール
-brew install hello-world
+brew install s4na-hello-world
 ```
 
 ## 利用可能なパッケージ
 
-- hello-world: シンプルなHello Worldプログラム
+- s4na-hello-world: シンプルなHello Worldプログラム
 
 ## 開発者向け情報
 
@@ -28,5 +28,5 @@ brew install hello-world
 ### テスト方法
 
 ```bash
-brew install --build-from-source Formula/hello-world.rb
+brew install --build-from-source Formula/s4na-hello-world.rb
 ```
