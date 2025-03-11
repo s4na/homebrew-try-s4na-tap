@@ -4,12 +4,22 @@
 
 ## インストール方法
 
-```bash
-# tapを追加
-brew tap s4na/try-s4na-tap
+tapを追加:
 
-# パッケージをインストール
+```bash
+brew tap s4na/try-s4na-tap
+```
+
+パッケージをインストール:
+
+```bash
 brew install s4na-hello-world
+```
+
+実行:
+
+```bash
+s4na-hello-world
 ```
 
 ## 利用可能なパッケージ
