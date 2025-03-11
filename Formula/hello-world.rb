@@ -1,7 +1,7 @@
 class HelloWorld < Formula
   desc "Simple hello world program"
-  homepage "https://github.com/nabetani/try-brew-tap"
-  url "https://github.com/nabetani/try-brew-tap/archive/refs/tags/v0.1.0.tar.gz"
+  homepage "https://github.com/s4na/try-brew-tap"
+  url "https://github.com/s4na/try-brew-tap/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "0000000000000000000000000000000000000000000000000000000000000000" # これは後で実際のファイルのハッシュに置き換える必要があります
   license "MIT"
 

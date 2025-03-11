@@ -6,7 +6,7 @@
 
 ```bash
 # tapを追加
-brew tap nabetani/try-brew-tap
+brew tap s4na/try-brew-tap
 
 # パッケージをインストール
 brew install hello-world
