@@ -1,4 +1,4 @@
-# try-brew-tap
+# homebrew-try-s4na-tap
 
 これはHomebrewのtapリポジトリのサンプルです。
 
@@ -6,7 +6,7 @@
 
 ```bash
 # tapを追加
-brew tap s4na/try-brew-tap
+brew tap s4na/try-s4na-tap
 
 # パッケージをインストール
 brew install s4na-hello-world
