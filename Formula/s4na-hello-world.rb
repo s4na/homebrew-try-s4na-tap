@@ -2,7 +2,7 @@ class S4naHelloWorld < Formula
   desc "Simple hello world program by s4na"
   homepage "https://github.com/s4na/homebrew-try-s4na-tap"
   url "https://github.com/s4na/homebrew-try-s4na-tap/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000" # これは後で実際のファイルのハッシュに置き換える必要があります
+  sha256 "70068c526ddb23ffba59881b6e207634289165cf98030e155d16bebd00276285"
   license "MIT"
 
   def install
