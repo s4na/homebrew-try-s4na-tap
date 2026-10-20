@@ -16,6 +16,14 @@ brew tap s4na/try-s4na-tap
 brew install s4na-hello-world
 ```
 
+Rocket（macOSアプリ）:
+
+```bash
+brew install --cask s4na/try-s4na-tap/s4na-rocket
+```
+
+インストール後は `/Applications/Rocket (s4na).app` として追加されます。Homebrew標準の `rocket` caskとのアプリ名の衝突を避けるためです。
+
 実行:
 
 ```bash
@@ -25,6 +33,7 @@ s4na-hello-world
 ## 利用可能なパッケージ
 
 - s4na-hello-world: シンプルなHello Worldプログラム
+- s4na-rocket: macOS用アプリランチャーとウィンドウ配置ショートカット
 
 ## 開発者向け情報
 
