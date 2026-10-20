@@ -22,6 +22,8 @@ Rocket（macOSアプリ）:
 brew install --cask s4na/try-s4na-tap/s4na-rocket
 ```
 
+インストール後は `/Applications/Rocket (s4na).app` として追加されます。Homebrew標準の `rocket` caskとのアプリ名の衝突を避けるためです。
+
 実行:
 
 ```bash

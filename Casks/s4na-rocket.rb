@@ -9,5 +9,5 @@ cask "s4na-rocket" do
 
   depends_on macos: :ventura
 
-  app "Rocket.app"
+  app "Rocket.app", target: "Rocket (s4na).app"
 end
