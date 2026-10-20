@@ -1,6 +1,6 @@
 cask "s4na-rocket" do
-  version "0.1.0"
-  sha256 "bc26a5b6622f5a0584bd5f6956f52ea8909d1af347f872ce28876b16500825de"
+  version "0.1.1"
+  sha256 "3f449dd2cb0fcb7cac314183f43f54003b55e24a18d6bc4e9468aa9d0288e963"
 
   url "https://github.com/s4na/rocket/releases/download/v#{version}/Rocket-#{version}.zip"
   name "Rocket"
